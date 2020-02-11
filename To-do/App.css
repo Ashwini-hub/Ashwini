@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color: rgb(86, 127, 216);
+}
+
+.content {
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(to right, cyan,blue);
+  color: black;
+}
+
+.done{
+   text-decoration: line-through;
+}
+.apptitle {
+  margin: 1rem 0;
+  color: #ff2968
+}
